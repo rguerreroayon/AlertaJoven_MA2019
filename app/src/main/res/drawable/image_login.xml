@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<vector-->
+    <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:aapt="http://schemas.android.com/aapt"-->
+    <!--android:width="2077.46dp"-->
+    <!--android:height="1235.24dp"-->
+    <!--android:viewportWidth="2077.46"-->
+    <!--android:viewportHeight="1235.24"-->
+    <!--&gt;-->
+
+    <!--<group>-->
+
+        <!--<clip-path-->
+            <!--android:pathData="M0 0H2077.46V1235.24H0V0Z"-->
+            <!--/>-->
+
+    <!--</group>-->
+
+<!--</vector>-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <rotate android:fromDegrees="63.16"
+            android:toDegrees="63.16"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:drawable="@drawable/image_pressure_reading"/>
+        <clip android:clipOrientation="horizontal"></clip>
+    </item>
+
+</selector>

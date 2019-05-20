@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "950894359916",
+    "firebase_url": "https://sofe-medapp-2019-4.firebaseio.com",
+    "project_id": "sofe-medapp-2019-4",
+    "storage_bucket": "sofe-medapp-2019-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950894359916:android:c6d60eb6b6df8bfe",
+        "android_client_info": {
+          "package_name": "com.nearsoft.sofe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950894359916-f6b5ou60rjc39jpqg4ek8enh9if13fqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nearsoft.sofe",
+            "certificate_hash": "cd3332b0cb0fd6f336260cefc1a2c485ab0e8d6e"
+          }
+        },
+        {
+          "client_id": "950894359916-bhcig2tqfe30421kosl3drj1293u6c57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQBN-fboQCswx5B23vyeGpoCxFLidlyT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950894359916-bhcig2tqfe30421kosl3drj1293u6c57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
